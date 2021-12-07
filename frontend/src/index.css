@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  height: 100%;
+  font-family: 'Merriweather', serif;
+  background-color: #FBBB34;
+  box-sizing: border-box;
+  padding: 0 0.5em;
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  margin-top: 7px;
+}
+
+#root {
+  height: 100%;
+}
+
+html {
+  min-height: 100vh;
+}
