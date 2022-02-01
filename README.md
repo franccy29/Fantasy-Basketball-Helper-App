@@ -35,17 +35,17 @@ Visual elements were sourced from the Material UI library and styled using the S
 
 # Screenshots
 
-| Landing Page                                                                                                              |
-| ------------------------------------------------------------------------------------------------------------------------- |
-| ![landing page](https://github.com/japhetGitHub/Fantasy-Basketball-Helper-App/blob/main/screenshots/landing.png?raw=true) |
+| Landing Page                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------ |
+| ![landing page](https://github.com/franccy29/Fantasy-Basketball-Helper-App/blob/main/screenshot/landing.png) |
 
-| All Teams                                                                                                                     | Specific Team Overview                                                                                                                         |
-| ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![all teams page](https://github.com/japhetGitHub/Fantasy-Basketball-Helper-App/blob/main/screenshots/all_teams.gif?raw=true) | ![specific team overview page](https://github.com/japhetGitHub/Fantasy-Basketball-Helper-App/blob/main/screenshots/team_overview.gif?raw=true) |
+| All Teams                                                                                                        | Specific Team Overview                                                                                                            |
+| ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| ![all teams page](https://github.com/franccy29/Fantasy-Basketball-Helper-App/blob/main/screenshot/all_teams.gif) | ![specific team overview page](https://github.com/franccy29/Fantasy-Basketball-Helper-App/blob/main/screenshot/team_overview.gif) |
 
-| Manage Players                                                                                                                          | Player Stats                                                                                                                                        |
-| --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![manage players page](https://github.com/japhetGitHub/Fantasy-Basketball-Helper-App/blob/main/screenshots/manage_players.gif?raw=true) | ![starting lineup player stats page](https://github.com/japhetGitHub/Fantasy-Basketball-Helper-App/blob/main/screenshots/player_stats.gif?raw=true) |
+| Manage Players                                                                                                             | Player Stats                                                                                                                           |
+| -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| ![manage players page](https://github.com/franccy29/Fantasy-Basketball-Helper-App/blob/main/screenshot/manage_players.gif) | ![starting lineup player stats page](https://github.com/franccy29/Fantasy-Basketball-Helper-App/blob/main/screenshot/player_stats.gif) |
 
 # Additional (stretch) goals
 
